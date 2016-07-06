@@ -6,7 +6,7 @@ import dropbox
 from dropbox.files import WriteMode
 from dropbox.exceptions import ApiError, AuthError
 
-TOKEN = "-JFp19x_9tYAAAAAAAAEYiQNlvI62MSjoTSKZsvUVzleK8kULo2T1-xIaWUaYhnk";
+TOKEN = "";
 
 COMPRESFILE = "";
 #LOCALFILE   = "D:\Python\Python.7z";
